@@ -3,9 +3,6 @@
 #Live App
 https://protected-escarpment-79486.herokuapp.com/
 
-#Blogs
-🎉 If you like any of the posts, please share it on Twitter (<a href="https://twitter.com/rajaraodv">@rajaraodv</a>)🎉
-
 1. <a href="https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.s7zsgq3u1" target="_blank">Step by Step Guide To Building React Redux Apps</a>
 2.  <a href="https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.g99gruhdz" target="_blank">A Guide For Building A React Redux CRUD App (3-page app)</a>
 3.  <a href="https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6#.oentrjqpj" target="_blank">Using Middlewares In React Redux Apps</a>
